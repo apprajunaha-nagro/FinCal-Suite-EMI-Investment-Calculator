@@ -1,0 +1,8 @@
+{
+  "name": "Financial Calculator Pro",
+  "description": "Comprehensive EMI and Investment calculators with multi-currency support, advanced simulators, and visual charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
